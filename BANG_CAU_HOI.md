@@ -3,7 +3,7 @@
 
 1. CHÀO Anh/Chị. Anh/chị có thể cho em biết tên tuổi để dễ xưng hô không?
 2. Được biết anh chị có nhu cầu một hệ thống quản lý phòng trọ. Vậy đầu tiên, tại sao quý anh chị cần 1 hệ thống quản lý phòng trọ?
-3. Những vấn đề anh chị cần quản lý trong dãy trọ của mình ạ?
+3. Những vấn đề anh chị cần quản lý trong dãy trọ của mình?
 4. Những khó khăn mà anh chị gặp phải khi quản lý những vấn đề đó không không có hệ thống nào hỗ trợ?
 5. Quy mô kinh doanh phòng trọ hiện tại của anh chị như thế nào? 
 6. Anh chị muốn phần mềm quản lý cả tiền trọ, tiền điện nước, thông tin cá nhân người thuê và hư hại cơ sở vật chất hay chỉ là tiền trọ thôi?
