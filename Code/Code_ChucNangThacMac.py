@@ -36,9 +36,9 @@ def create():
 
     if request.method == 'POST':
         KH_id = request.form['KH_id']
-        name = request.form['name']
+        ThacMac = request.form['ThacMac']
         KH = ThacMac_Model(
-            KH_id=KH_id, ThacMac=name)
+            KH_id=KH_id, ThacMac=ThacMac)
         db.session.add(KH)
         db.session.commit()
         return ('Gửi thành công! Thắc mắc của bạn sẽ được phản hồi trong thời gian sớm nhất!')
